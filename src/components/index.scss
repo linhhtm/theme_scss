@@ -1,0 +1,5 @@
+.myButton {
+  @include theme(background-color, backgroundDark);
+  font-size: 16px;
+  border-radius: 3px;
+}

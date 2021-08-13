@@ -1,0 +1,139 @@
+{
+  "main": {
+    "next": "次",
+    "previous": "前",
+    "close": "Fermer"
+  },
+  "screens": {
+    "customerInfos": "Informations client",
+    "welcome": "Bienvenue",
+    "vehicleInfos": "Informations véhicule",
+    "comments": "Commentaires",
+    "reminders": "Rappels",
+    "deposit": "Dépôt",
+    "advisor": "Votre avis",
+    "end": "Confirmation",
+    "pickup": "Récupération des clés"
+  },
+  "welcome": {
+    "welcomeMsg": "こんにちは<strong>{customerName}</strong>さん",
+    "deposit": "Vous allez déposer les clés de votre <strong>{vehicleBrand} {vehicleModel}</strong> immatriculée <strong>{vehicleImmat}</strong>",
+    "pick": "U gaat de sleutels van uw <strong>{vehicleBrand} {vehicleModel}</strong> met het kenteken <strong>{vehicleImmat}</strong>",
+    "welcomeEnd": "”{next}“ボタンを押して続行します"
+  },
+  "customer": {
+    "title": "連絡先の詳細",
+    "mail": "電子メールアドレス",
+    "phone": "電話番号",
+    "invalidMail": "メールアドレス",
+    "invalidPhone": "無効な電話番号"
+  },
+  "vehicle": {
+    "title": "Votre Véhicule",
+    "vehicleType": "Marque / Modèle",
+    "vehicleImmat": "Immatriculation",
+    "vehicleVIN": "VIN",
+    "vehicleMileage": "Kilomètrage",
+    "cgv": "J'accepte les conditons générales de vente.",
+    "invalidMileage": "Kilomètrage invalide",
+    "cgvNotAccepted": "Vous devez accepter les conditions générales de vente pour continuer.",
+    "readCGV": "Lire les CGV"
+  },
+  "comments": {
+    "title": "Vos commentaires",
+    "subtitle": "Appuyez sur le stylo pour éditer",
+    "label": "Veuillez entrez vos commentaires ici"
+  },
+  "reminders": {
+    "title": "Important",
+    "intro": "Avant de déposer vos clés, assurez vous de :",
+    "forget": "Ne rien avoir oublié dans votre véhicule",
+    "lock": "D'avoir bien vérouillé votre véhicule",
+    "otherkeys": "D'avoir récupéré les autres clés sur votre trousseau",
+    "window": "D'avoir fermé les fenêtres du véhicule"
+  },
+  "keyDrop": {
+    "title": "Déposez les clés",
+    "papers": "Le dépôt de votre carte grise est obligatoire en cas de contrôle technique ou d'expertise assurance.<br><br>Il n'est pas nécessaire pour toute autre opération.",
+    "confirmKey": "Je confirme avoir déposé mes clés",
+    "confirmPaper": "Je confirme avoir déposé ma carte grise",
+    "restitutionWish": "Je souhaite récupérer mes clés à la borne",
+    "wait": "Veuillez patienter jusqu'a l'ouverture de la trappe."
+  },
+  "keyPick": {
+    "title": "Récupérez vos clés",
+    "confirmKey": "Je confirme avoir récupéré mes clés",
+    "confirmPaper": "Je confirme avoir récupéré ma carte grise",
+    "wait": "Veuillez patienter jusqu'a l'ouverture de la trappe."
+  },
+  "confirmation": {
+    "title": "Confirmation",
+    "message": "Vos clés ont été mises en sécurité",
+    "messageDetail": "Avant de pouvoir commencer les travaux sur votre véhicule, merci de nous retourner dès réception le « Bon de commande de travaux » que vous allez recevoir par mail.<br><br>Ce document vous sera envoyé dès que nous prendrons en charge votre véhicule",
+    "messagePick": "Vous avez récupéré vos clés",
+    "messagePickDetail": "Toute l'équipe vous remercie de votre confiance et vous souhaite bonne route."
+  },
+  "advisor": {
+    "title": "Votre avis",
+    "simple": "Facile d'utilisation",
+    "reuse": "Je réutiliserai",
+    "recommend": "Je recommenderai"
+  },
+  "locker": {
+    "moving": "Un casier est en mouvement.",
+    "preparing": "Votre casier est en cours de préparation",
+    "presentingSoon": "Votre casier vous sera bientot présenté",
+    "safeMove": "Les clés sont mises en sécurité",
+    "resetMove": "Le casier revient dans le stockage"
+  },
+  "copyright": "APV by IPSIP - © 2021",
+  "label":{
+    "nameManage":"Self-Car Manager PSA",
+    "descriptShop":"PSA RETAIL MASSY",
+    "pointDeVente":"ShopABT",
+    "notification":"Notifications", 
+    "statistiques":"Statistiques",
+    "appointment":"Appointment",
+    "statistiquesDetail": {
+      "global": "Global",
+      "monthly": "Par mois",
+      "week": "Par semaine",
+      "day": "Par jour",
+      "hour" :"Par heure"
+    }, 
+    "device":"Device",
+    "casier":"Locker",
+    "activite":"Activity",
+    "filtrer":"Filtrer",
+    "numberActiviti":"Nombre d’activités",
+    "totalActiviti":"Activités Global" ,
+    "sendAndGetKey" :"Dépôt et Retrait", 
+    "averageUse":"Temps moyen passé en borne",
+    "client":"Client",
+    "ccs":"CCS",
+    "average":"Moyenne",
+    "mentor":"Advisor",
+    "numberOfCustomer":"Moyenne advisor",  
+    "reviewOver24Month":" sur 24 mois",
+    "easyUse":"Facile à utiliser",
+    "continueUse":"J’utiliserai encore ",
+    "ActivitiesPerMonth":"Activités par mois",
+    "over24Month":" sur 24 mois", 
+    "ActivitiesPerWeek":"Activités par semaine",
+    "over1Month":" sur 1 mois",
+    "ActivitiesPerday":"Activités par jour",
+    "over1Week":" sur 1 semaine",
+    "ActivitiesPerHour":"Activités par heure",
+    "over1Day":" sur 1 jour",
+    "global":"global ",
+    "globalNumberSend":"global dépots",
+    "globalNumberGetKey":"glabal retraits",
+    "APV":"APV",
+    "numberKeyReturn":"dépôt APV",
+    "numberReceiveKey":"retrait APV", 
+    "recommendToFriends":"je recommanderai",
+    "reconsideration":"Revues" ,
+    "configure":"Configure",
+    "activity":"ACTIVITÉS"
+  }
+}

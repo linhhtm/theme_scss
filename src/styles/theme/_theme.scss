@@ -1,0 +1,24 @@
+@import '../mixin/function.scss';
+
+$light: (
+  borderDark: color(dark),
+  borderLight: color(light),
+  textDark: color(black),
+  textLight: color(white),
+  backgroundDark: color(dark),
+  backgroundLight: color(light)
+);
+
+$dark: (
+  borderDark: color(light),
+  borderLight: color(dark),
+  textDark: color(white),
+  textLight: color(black),
+  backgroundDark: color(light),
+  backgroundLight: color(dark)
+);
+
+$themeArr: (
+  dark: $dark, 
+  light: $light
+);

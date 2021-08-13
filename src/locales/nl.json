@@ -1,0 +1,140 @@
+{
+  "advisor": {
+    "recommend": "Ik kan deze service aan anderen aanbevelen",
+    "reuse": "Ik zal vaker gebruikmaken van deze service",
+    "simple": "Deze service werkt heel eenvoudig",
+    "title": "Uw mening"
+  },
+  "comments": {
+    "label": "Geef ons uw mening",
+    "subtitle": "Tik op de pen om een ​​opmerking toe te voegen",
+    "title": "Uw opmerkingen"
+  },
+  "confirmation": {
+    "message": "Uw sleutels zijn veilig opgeborgen.",
+    "messageDetail": "Om te kunnen beginnen met de werkzaamheden aan uw auto verzoeken wij u de \"Werkorder\" die u per e-mail van ons ontvangt per omgaande aan ons terug te sturen.<br><br>U ontvangt dit document van ons zodra wij uw auto in ontvangst hebben genomen.",
+    "title": "Bevestiging",
+    "messagePick": "Vous avez récupéré vos clés",
+    "messagePickDetail": "Toute l'équipe vous remercie de votre confiance et vous souhaite bonne route."
+  },
+  "customer": {
+    "invalidMail": "Dit e-mailadres is ongeldig",
+    "invalidPhone": "Dit mobiele nummer is ongeldig",
+    "mail": "E-mailadres",
+    "phone": "Uw mobiele telefoonnummer",
+    "title": "Uw gegevens"
+  },
+  "keyDrop": {
+    "confirmKey": "Ik heb mijn sleutels gedeponeerd",
+    "confirmPaper": "Ik heb mijn kentekenbewijs gedeponeerd",
+    "papers": "Wij hebben uw kentekenbewijs nodig voor de expertise van de verzekering.<br><br>Bij andere werkzaamheden hoeft u het kentekenbewijs niet te deponeren.",
+    "restitutionWish": "Ik wil de sleutels ophalen bij de terminal",
+    "title": "Deponeer de sleutels",
+    "wait": "Veuillez patienter jusqu'a l'ouverture de la trappe."
+  },
+  "keyPick": {
+    "title": "Récupérez vos clés",
+    "confirmKey": "Je confirme avoir récupéré mes clés",
+    "confirmPaper": "Je confirme avoir récupéré ma carte grise",
+    "wait": "Veuillez patienter jusqu'a l'ouverture de la trappe."
+  },
+  "main": {
+    "close": "Sluiten",
+    "next": "Volgende stap",
+    "previous": "Terug"
+  },
+  "reminders": {
+    "forget": "Of u alles wat u nodig hebt uit uw auto hebt gehaald.",
+    "intro": "Controleer voordat u uw sleutels deponeert:",
+    "lock": "Of uw auto goed is vergrendeld.",
+    "otherkeys": "Of u alle sleutels die u nodig hebt van de sleutelbos af hebt gehaald.",
+    "title": "Belangrijk",
+    "window": "Of alle ruiten (en evt. het open dak) van uw auto zijn gesloten."
+  },
+  "screens": {
+    "advisor": "Uw mening",
+    "comments": "Opmerkingen",
+    "customerInfos": "Gegevens klant",
+    "deposit": "Afgifte",
+    "end": "Bevestiging",
+    "reminders": "Rappels",
+    "vehicleInfos": "Auto",
+    "welcome": "Welkom",
+    "pickup": "Récupération des clés"
+  },
+  "vehicle": {
+    "cgv": "Ik accepteer de algemene verkoopvoorwaarden.",
+    "cgvNotAccepted": "U moet akkoord gaan met de algemene gebruiksvoorwaarden om naar de volgende stap te gaan.",
+    "invalidMileage": "Kilometerstand is ongeldig.",
+    "readCGV": "algemene gebruiksvoorwaarden leze",
+    "title": "Uw auto",
+    "vehicleImmat": "Kenteken",
+    "vehicleMileage": "Kilometerstand",
+    "vehicleType": "Merk / Model",
+    "vehicleVIN": "VIN"
+  },
+  "welcome": {
+    "deposit": "U gaat de sleutels deponeren van uw <strong>{vehicleBrand} {vehicleModel}</strong> met het kenteken <strong>{vehicleImmat}</strong>",
+    "pick": "U gaat de sleutels van uw <strong>{vehicleBrand} {vehicleModel}</strong> met het kenteken <strong>{vehicleImmat}</strong>", 
+    "welcomeEnd": "Druk op de knop hieronder om naar de volgende stap te gaan.",
+    "welcomeMsg": "Beste mevrouw/meneer <strong>{customerName}</strong>,"
+  },
+
+  "locker": {
+    "moving": "Un casier est en mouvement.",
+    "preparing": "Votre casier est en cours de préparation",
+    "presentingSoon": "Votre casier vous sera bientot présenté",
+    "safeMove": "Les clés sont mises en sécurité",
+    "resetMove": "Le casier revient dans le stockage"
+  },
+  "copyright": "APV by IPSIP - © 2021",
+  "label":{
+    "nameManage":"Self-Car Manager PSA",
+    "descriptShop":"PSA RETAIL MASSY",
+    "pointDeVente":"ShopABT",
+    "notification":"Notifications", 
+    "statistiques":"Statistiques",
+    "appointment":"Appointment",
+    "statistiquesDetail": {
+      "global": "Global",
+      "monthly": "Par mois",
+      "week": "Par semaine",
+      "day": "Par jour",
+      "hour" :"Par heure"
+    }, 
+    "device":"Device",
+    "casier":"Locker",
+    "activite":"Activity",
+    "filtrer":"Filtrer",
+    "numberActiviti":"Nombre d’activités",
+    "totalActiviti":"Activités Global" ,
+    "sendAndGetKey" :"Dépôt et Retrait", 
+    "averageUse":"Temps moyen passé en borne",
+    "client":"Client",
+    "ccs":"CCS",
+    "average":"Moyenne",
+    "mentor":"Advisor",
+    "numberOfCustomer":"Moyenne advisor",  
+    "reviewOver24Month":" sur 24 mois",
+    "easyUse":"Facile à utiliser",
+    "continueUse":"J’utiliserai encore ",
+    "ActivitiesPerMonth":"Activités par mois",
+    "over24Month":" sur 24 mois", 
+    "ActivitiesPerWeek":"Activités par semaine",
+    "over1Month":" sur 1 mois",
+    "ActivitiesPerday":"Activités par jour",
+    "over1Week":" sur 1 semaine",
+    "ActivitiesPerHour":"Activités par heure",
+    "over1Day":" sur 1 jour",
+    "global":"global ",
+    "globalNumberSend":"global dépots",
+    "globalNumberGetKey":"glabal retraits",
+    "APV":"APV",
+    "numberKeyReturn":"dépôt APV",
+    "numberReceiveKey":"retrait APV", 
+    "recommendToFriends":"je recommanderai",
+    "reconsideration":"Revues" ,
+    "configure":"Configure",
+    "activity":"ACTIVITÉS"
+  }
+}

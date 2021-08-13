@@ -1,0 +1,51 @@
+$white:                     #ffffff  !default;
+$black:                     #000000  !default;
+$red:                       #de4436  !default;
+$yellow:                    #ffc542  !default;
+$green:                     #7EC350  !default;
+$blue:                      #3e82f7  !default; 
+$gray-dark:                 #1a3353  !default;
+$gray-light:                #72849a  !default; 
+
+$screen-max-width: 1024px;
+$header-height: 60px;
+$footer-height: 40px;
+$sreen-full-height: calc(100vh - #{$header-height + $footer-height} - 4px);
+$border-color: $gray-light;
+
+// State Colors
+$primary:                    $blue !default;
+$secondary:                  $gray-light !default;
+$success:                    $green !default;
+$info:                       $blue !default;
+$warning:                    $yellow !default;
+$danger:                     $red !default;
+
+$theme-colors: (
+    "primary":    $primary,
+    "secondary":  $secondary,
+    "success":    $success,
+    "info":       $info,
+    "warning":    $warning,
+    "danger":     $danger,
+    "light":      $gray-light,
+    "dark":       $gray-dark
+);
+
+$spacer: 1rem !default;
+$spacers: (
+    0: 0,
+    1: (
+      $spacer * 0.25
+    ),
+    2: (
+      $spacer * 0.5
+    ),
+    3: $spacer,
+    4: (
+      $spacer * 1.5
+    ),
+    5: (
+      $spacer * 3
+    ),
+);
